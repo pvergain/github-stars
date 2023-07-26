@@ -5,7 +5,6 @@
 
 ## Contents
 
-- [AsciiDoc](#asciidoc)
 - [Assembly](#assembly)
 - [Bikeshed](#bikeshed)
 - [C](#c)
@@ -87,10 +86,6 @@
 - [XSLT](#xslt)
 - [YARA](#yara)
 - [Zig](#zig)
-
-## AsciiDoc 
-
-- [bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) - Mastering Bitcoin 2nd Edition - Programming the Open Blockchain
 
 ## Assembly 
 
@@ -259,6 +254,7 @@
 
 ## C++ 
 
+- [apple/swift](https://github.com/apple/swift) - The Swift Programming Language
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [openstreetmap/osm2pgsql](https://github.com/openstreetmap/osm2pgsql) - OpenStreetMap data to PostgreSQL converter
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by MapsWithMe (MapsMe) founde
@@ -664,6 +660,7 @@
 
 ## HTML 
 
+- [maomam/allInclusive](https://github.com/maomam/allInclusive) - 
 - [acailly/shrink-my-video](https://github.com/acailly/shrink-my-video) - Shrink your video by limiting the quality
 - [kevquirk/512kb.club](https://github.com/kevquirk/512kb.club) - Website for the 512 KB Club
 - [JesperDramsch/ml-for-science-reproducibility-tutorial](https://github.com/JesperDramsch/ml-for-science-reproducibility-tutorial) - Increase citations, ease review & collaboration  A collection of "easy wins" to make machine learning in research reproducible.  This tutorial focuses on basics that work.  Getting you 90% of the way 
