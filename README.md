@@ -469,6 +469,7 @@
 
 ## Go 
 
+- [miniscruff/changie](https://github.com/miniscruff/changie) - Automated changelog tool for preparing releases with lots of customization options
 - [EmissarySocial/emissary](https://github.com/EmissarySocial/emissary) - A Trustworthy Space on the Web (ActivityPub + IndieWeb)
 - [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
@@ -616,6 +617,7 @@
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [docker/docker-ce](https://github.com/docker/docker-ce) - :warning: This repository is deprecated and will be archived (Docker CE itself is NOT deprecated) see the https://github.com/docker/docker-ce/blob/master/README.md :warning:
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
+- [dalibo/ldap2pg](https://github.com/dalibo/ldap2pg) - :elephant: :busts_in_silhouette: Manage PostgreSQL roles and privileges from YAML or LDAP
 - [google/pprof](https://github.com/google/pprof) - pprof is a tool for visualization and analysis of profiling data
 - [hyperledger/fabric](https://github.com/hyperledger/fabric) - Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use 
 - [NebulousLabs/Sia](https://github.com/NebulousLabs/Sia) - Blockchain-based marketplace for file storage. Project has moved to GitLab: https://gitlab.com/NebulousLabs/Sia
@@ -844,6 +846,7 @@
 
 ## Java 
 
+- [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot
 - [graphhopper/graphhopper](https://github.com/graphhopper/graphhopper) - Open source routing engine for OpenStreetMap. Use it as Java library or standalone web server.
 - [esig/dss](https://github.com/esig/dss) - Digital Signature Service : creation, extension and validation of advanced electronic signatures
 - [archimatetool/archi](https://github.com/archimatetool/archi) - Archi: ArchiMate Modelling Tool
@@ -892,6 +895,7 @@
 
 ## JavaScript 
 
+- [axa-group/Parsr](https://github.com/axa-group/Parsr) - Transforms PDF, Documents and Images into Enriched Structured Data
 - [antfu/qr-scanner-wechat](https://github.com/antfu/qr-scanner-wechat) - QR Code scanner in JS with Open CV and WeChat's Algorithm
 - [alt-text-org/my.alt-text.org](https://github.com/alt-text-org/my.alt-text.org) - A set of tools for alt text users and writers
 - [commandprompt/pgmanage](https://github.com/commandprompt/pgmanage) - Web tool for database management
@@ -1423,6 +1427,7 @@
 - [openui/open-ui](https://github.com/openui/open-ui) - Maintain an open standard for UI and promote its adherence and adoption.
 - [getsentry/sentry-docs](https://github.com/getsentry/sentry-docs) - Sentry's documentation (and tools to build it)
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
+- [react-native-elements/react-native-elements](https://github.com/react-native-elements/react-native-elements) - Cross-Platform React Native UI Toolkit
 
 ## Makefile 
 
@@ -1556,7 +1561,7 @@
 - [codehag/TC39-news](https://github.com/codehag/TC39-news) - News from the depths
 - [lukehoban/es6features](https://github.com/lukehoban/es6features) - Overview of ECMAScript 6 features
 - [tc39/proposal-string-matchall](https://github.com/tc39/proposal-string-matchall) - ES Proposal, specs, tests, reference implementation, and polyfill/shim for String.prototype.matchAll
-- [Financial-Times/polyfill-service](https://github.com/Financial-Times/polyfill-service) - Automatic polyfill service.
+- [JakeChampion/polyfill-service](https://github.com/JakeChampion/polyfill-service) - Automatic polyfill service.
 - [slacka/WoeUSB](https://github.com/slacka/WoeUSB) - WoeUSB is a simple tool that enable you to create your own usb stick windows installer from an iso image or a real DVD. It is a fork of Congelli501's WinUSB.
 - [taichino/croniter](https://github.com/taichino/croniter) - croniter is a python module to provide iteration for datetime object.
 - [carlosperate/awesome-pyproject](https://github.com/carlosperate/awesome-pyproject) - An Awesome List of projects using the pyproject.toml Python configuration file.
@@ -1748,7 +1753,7 @@
 - [espocrm/espocrm](https://github.com/espocrm/espocrm) - EspoCRM open source CRM application
 - [the-benchmarker/web-frameworks](https://github.com/the-benchmarker/web-frameworks) - Which is the fastest web framework?
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
-- [Enalean/tuleap](https://github.com/Enalean/tuleap) - Tuleap is a Free & Open Source Suite to improve management of software developments and collaboration. With a single web-based solution, project managers, developers & quality managers can easily buil
+- [Enalean/tuleap](https://github.com/Enalean/tuleap) - Tuleap is an Open Source Suite to improve management of software developments and collaboration. With a single web-based solution, project managers, developers & quality managers can easily build, dep
 - [ksylvan/docker-mail-server](https://github.com/ksylvan/docker-mail-server) - Ansible playbooks to deploy a full featured mail server stack using Docker.
 - [jeedom/core](https://github.com/jeedom/core) - Software for home automation
 - [DrewDahlman/dockerize-all-the-things](https://github.com/DrewDahlman/dockerize-all-the-things) - Make your life easier by using containers for everything.
@@ -1766,6 +1771,7 @@
 
 ## PLpgSQL 
 
+- [cybertec-postgresql/pgwatch2](https://github.com/cybertec-postgresql/pgwatch2) - PostgreSQL metrics monitor/dashboard
 - [aiven/devportal](https://github.com/aiven/devportal) - Resources for users of the projects on the Aiven platform
 - [xocolatl/periods](https://github.com/xocolatl/periods) - PERIODs and SYSTEM VERSIONING for PostgreSQL
 - [pgspider/sqlite_fdw](https://github.com/pgspider/sqlite_fdw) - SQLite Foreign Data Wrapper for PostgreSQL
@@ -1821,6 +1827,9 @@
 
 ## Python 
 
+- [miniscruff/hashversion-python](https://github.com/miniscruff/hashversion-python) - Python CLI for automating hashver and related tools
+- [GabDug/sync-pre-commit-lock](https://github.com/GabDug/sync-pre-commit-lock) - Automatically sync your pre-commit hooks version from your PDM or Poetry lockfile, and install them automatically.
+- [agardnerIT/tracepusher](https://github.com/agardnerIT/tracepusher) - Generate and push OpenTelemetry Trace data to an OTEL collector in JSON format
 - [sponsfreixes/jinja2-fragments](https://github.com/sponsfreixes/jinja2-fragments) - Render Jinja2 template block as HTML page fragments on Python web frameworks.
 - [AliRn76/panther](https://github.com/AliRn76/panther) - Fast & Friendly Python Web Framework
 - [lona-web-org/lona](https://github.com/lona-web-org/lona) - Write responsive web apps in full python
@@ -1897,7 +1906,7 @@
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
 - [kedro-org/kedro](https://github.com/kedro-org/kedro) - Kedro is a toolbox for production-ready data science. It uses software engineering best practices to help you create data engineering and data science pipelines that are reproducible, maintainable, an
 - [IceTheDev2/Passwordsy](https://github.com/IceTheDev2/Passwordsy) - A program that can generate a secure password of up to 100 characters, extract securely selected words from the diceware wordlist, generate a password from a sentence, and check for vulnerabilities in
-- [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - 🧩 A lightweight AI engineering framework for building natural language interfaces that are reliable, scalable, and easy to trust.
+- [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - ✨ Build AI interfaces that spark joy
 - [jamesturk/scrapeghost](https://github.com/jamesturk/scrapeghost) - 👻 Experimental library for scraping websites using OpenAI's GPT API.
 - [vkbo/novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source plain text editor designed for writing novels. It supports a minimal markdown-like syntax for formatting text. It is written with Python 3 (3.7+) and Qt 5 (5.10+) for cro
 - [fredrikaverpil/creosote](https://github.com/fredrikaverpil/creosote) - Identify unused dependencies and avoid a bloated virtual environment.
@@ -3112,7 +3121,6 @@
 - [filipeximenes/multitenancy](https://github.com/filipeximenes/multitenancy) - 
 - [hugobessa/django-shared-schema-tenants](https://github.com/hugobessa/django-shared-schema-tenants) - A lib to help in the creation of shared schema multi tenants applications without suffering
 - [dbcli/pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
-- [dalibo/ldap2pg](https://github.com/dalibo/ldap2pg) - :elephant: :busts_in_silhouette: Manage PostgreSQL roles and privileges from YAML or LDAP
 - [alculquicondor/psqlparse](https://github.com/alculquicondor/psqlparse) - A python module that gives access to PostgreSQL's query parser, for turning SQL into a parse tree.
 - [dizballanze/django-eraserhead](https://github.com/dizballanze/django-eraserhead) - 💂🏻 Django package that provides hints to optimize database usage by deferring unused fields (and more)
 - [dizballanze/mailsender](https://github.com/dizballanze/mailsender) - Python cli-tool for sending emails through specified SMTP server.
@@ -4325,6 +4333,8 @@
 
 ## Rust 
 
+- [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data
+- [timescale/timescaledb-toolkit](https://github.com/timescale/timescaledb-toolkit) - Extension for more hyperfunctions, fully compatible with TimescaleDB and PostgreSQL 📈
 - [jdxcode/rtx](https://github.com/jdxcode/rtx) - Runtime Executor (asdf rust clone)
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [imsnif/monocle](https://github.com/imsnif/monocle) - A Zellij plugin to fuzzy find file names and contents in style 🧐
@@ -4520,7 +4530,7 @@
 - [gliderlabs/docker-alpine](https://github.com/gliderlabs/docker-alpine) - Alpine Linux Docker image. Win at minimalism!
 - [actionjack/so-you-want-to-onboard-a-devops-engineer](https://github.com/actionjack/so-you-want-to-onboard-a-devops-engineer) - Guidance on how to make your environment easier to onboard for Web Ops Engineers, SRE's and DevOps Practitioners
 - [kamranahmedse/git-standup](https://github.com/kamranahmedse/git-standup) - Recall what you did on the last working day. Psst! or be nosy and find what someone else in your team did ;-)
-- [speed47/spectre-meltdown-checker](https://github.com/speed47/spectre-meltdown-checker) - Spectre, Meltdown, Foreshadow, Fallout, RIDL, ZombieLoad vulnerability/mitigation checker for Linux & BSD
+- [speed47/spectre-meltdown-checker](https://github.com/speed47/spectre-meltdown-checker) - Zenbleed, ZombieLoad, RIDL, Fallout, Foreshadow, Spectre, Meltdown vulnerability/mitigation checker for Linux & BSD
 - [itwars/ansible-101](https://github.com/itwars/ansible-101) - Ansible LAB with Docker
 - [jez/git-heatmap](https://github.com/jez/git-heatmap) - :bar_chart: Display a heatmap for oft-edited files
 - [babun/babun](https://github.com/babun/babun) - Babun - a Windows shell you will love!
@@ -4595,6 +4605,7 @@
 
 ## TypeScript 
 
+- [miniscruff/changie-action](https://github.com/miniscruff/changie-action) - GitHub action for Changie
 - [xitanggg/open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [vriteio/vrite](https://github.com/vriteio/vrite) - Open-source technical content management platform
@@ -4725,7 +4736,6 @@
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [nteract/nteract](https://github.com/nteract/nteract) - 📘 The interactive computing suite for you!  ✨
-- [react-native-elements/react-native-elements](https://github.com/react-native-elements/react-native-elements) - Cross-Platform React Native UI Toolkit
 - [sass/sass](https://github.com/sass/sass) - Sass makes CSS fun!
 - [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
